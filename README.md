@@ -7,8 +7,9 @@ python convert_to_labelme.py
 it should outputs json files in out dir
 then you can run 
 ``` python
-python labelme2COCO.py to generate coco format datasets
+python labelme2COCO.py 
 ```
+to generate coco format datasets
 
 
 # Mask R-CNN for Object Detection and Segmentation
